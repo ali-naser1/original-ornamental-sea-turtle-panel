@@ -1,0 +1,40 @@
+{
+  "diameter_mm": 580.0,
+  "thickness_mm": 2.0,
+  "material": "mild steel",
+  "connected_components": 1,
+  "geometry_valid": true,
+  "closed_profiles": 15,
+  "decorative_apertures": 12,
+  "mounting_holes": 2,
+  "mounting_hole_diameter_mm": 8.0,
+  "mounting_centers_mm": [
+    [
+      -199.05,
+      199.05
+    ],
+    [
+      199.05,
+      199.05
+    ]
+  ],
+  "minimum_profile_separation_mm": 4.5,
+  "minimum_gap_pair": [
+    1,
+    6
+  ],
+  "minimum_gap_centers": [
+    [
+      0.0,
+      189.54
+    ],
+    [
+      -199.05,
+      199.05
+    ]
+  ],
+  "area_mm2": 118810.03,
+  "cut_length_mm": 9178.51,
+  "mass_kg": 1.8653,
+  "cut_price_at_2_usd_per_kg": 3.73
+}
